@@ -1,20 +1,21 @@
 {
   "name": "x-archive-pro",
-  "title": "X Archive Pro — أداة تحليل وتعبئة بلاغات X",
-  "category": "أدوات X",
-  "description": "ابلاغات + استخراج تغريدات (Pro).",
+  "title": "X Archive Pro — إبلاغات + استخراج تغريدات",
+  "category": "أدوات X/Twitter",
+  "description": "أداة تحليل وتعبئة بلاغات X مع استخراج التغريدات.",
   "liveUrl": "https://x-archive-pro-vv4p.arcada.app/",
   "aliases": [],
-  "sourceLinks": [],
+  "sourceLinks": [
+    "https://www.designarena.ai/chat/c8d55cc2-510a-4425-829f-ccc399f7d59c"
+  ],
   "originalTitle": "X Archive Pro — أداة تحليل وتعبئة بلاغات X",
-  "originalDescription": "ابلاغات + استخراج تغريدات (Pro).",
+  "originalDescription": "",
   "type": "static-website",
   "archivedAt": "2026-10-15",
   "readyForHosting": true,
   "files": [
-    "assets/index-Bi1byoEy.js",
-    "assets/index-qKudXkOT.css",
     "favicon.svg",
-    "index.html"
+    "assets/index-Bi1byoEy.js",
+    "assets/index-qKudXkOT.css"
   ]
 }
