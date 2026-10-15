@@ -1,0 +1,20 @@
+{
+  "name": "x-archive-pro",
+  "title": "X Archive Pro — أداة تحليل وتعبئة بلاغات X",
+  "category": "أدوات X",
+  "description": "ابلاغات + استخراج تغريدات (Pro).",
+  "liveUrl": "https://x-archive-pro-vv4p.arcada.app/",
+  "aliases": [],
+  "sourceLinks": [],
+  "originalTitle": "X Archive Pro — أداة تحليل وتعبئة بلاغات X",
+  "originalDescription": "ابلاغات + استخراج تغريدات (Pro).",
+  "type": "static-website",
+  "archivedAt": "2026-10-15",
+  "readyForHosting": true,
+  "files": [
+    "assets/index-Bi1byoEy.js",
+    "assets/index-qKudXkOT.css",
+    "favicon.svg",
+    "index.html"
+  ]
+}
